@@ -25,7 +25,8 @@ This is a fun and simple script for FiveM that allows players to receive snowbal
 
 - **Number of Snowballs**: The number of snowballs a player gets when they pick one up can be configured in the `Config.lua` file:
   - Modify `Snowballs` to change the quantity (default is 2).
-
+  <img src="https://r2.fivemanage.com/3nWOCwH1JwmDjPjMMZ9V3/config.png" alt="Snowball Script Configuration Image">
+  
 ## Usage
 
 1. Once installed and configured, players can use the `/snowball` command to check if the weather is Christmas-themed.
